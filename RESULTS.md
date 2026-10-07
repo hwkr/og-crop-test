@@ -14,7 +14,8 @@ Share each variant with a fresh `?v=N`. Screenshots go in `results/<platform>/`.
 | WhatsApp | iOS / Android | | | | |
 | Telegram | iOS / desktop | | | | |
 | Signal | iOS / desktop | | | | Source says square shrinks to a 72px thumb on desktop |
-| Discord | Desktop / mobile | | | | |
+| Discord | macOS desktop | ✅ whole, large | ✅ whole, large | ⚠️ whole square, taller embed, text smaller | No cropping anywhere |
+| Discord | Mobile | | | | |
 | X | Web / iOS | | | | Title overlay sits bottom-left of the image |
 | LinkedIn | Post composer, desktop / mobile | | | | Use Post Inspector to refresh |
 | Facebook | Post composer | | | | Use the Sharing Debugger to refresh |
