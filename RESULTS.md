@@ -6,7 +6,7 @@ Share each variant with a fresh `?v=N`. Screenshots go in `results/<platform>/`.
 |---|---|---|---|---|---|
 | Slack | macOS desktop, compact card | ❌ cropped to "w Deployments" | ✅ logo + title read | ⚠️ whole square, text tiny | Hover popover shows the full landscape card for all three |
 | Slack | Web | | | | |
-| Slack | iOS | | | | |
+| Slack | iOS | ✅ whole, large | ✅ whole, large | ✅ cropped to a ~16:9 band, content intact | No compact card on mobile; large image under the title |
 | Slack | Android | | | | |
 | Slack | Teammate's account (experiment off?) | | | | Classic layout shows a large image under the text |
 | iMessage | iOS | | | | |
