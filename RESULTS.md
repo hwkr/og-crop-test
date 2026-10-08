@@ -10,7 +10,7 @@ Share each variant with a fresh `?v=N`. Screenshots go in `results/<platform>/`.
 | Slack | Android | | | | |
 | Slack | Teammate's account (experiment off?) | | | | Classic layout shows a large image under the text |
 | iMessage | iOS | | | | |
-| iMessage | macOS | | | | |
+| iMessage | macOS (LinkPresentation render on pascal, not the Messages app) | ✅ whole | ✅ whole | ⚠️ whole square, ~1.7x taller bubble | Rendered with LPLinkView at 320px |
 | WhatsApp | iOS / Android | | | | |
 | Telegram | iOS / desktop | | | | |
 | Signal | iOS / desktop | | | | Source says square shrinks to a 72px thumb on desktop |
